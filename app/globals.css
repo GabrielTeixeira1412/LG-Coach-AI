@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --brand: #111111; }
+html, body { height: 100%; }
+body { margin: 0; color: #111111; background: #f9fafb; }
